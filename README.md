@@ -10,32 +10,32 @@ Data:
   
 Production Quantity.csv has 4 columns <br />
 start_date, end_date   : start day and end day of each month between January
-                         2015 to Dec 2020. 
-prod                   : production quantity of Grople syrup in tonnes at monthly frequency
-region_id              : A unique identifier for the 10 provinces 
+                         2015 to Dec 2020. <br />
+prod                   : production quantity of Grople syrup in tonnes at monthly frequency<br />
+region_id              : A unique identifier for the 10 provinces <br />
 
 
 
-Daily Precipitation.csv has 4 columns
-start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 13, 2022.
-precip                 : Precipitation quantity (in mm) at daily frequency
-region_id              : A unique identifier for the 10 provinces
+Daily Precipitation.csv has 4 columns<br />
+start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 13, 2022.<br />
+precip                 : Precipitation quantity (in mm) at daily frequency<br />
+region_id              : A unique identifier for the 10 provinces<br />
 
-Daily Soil Moisture.csv has 4 columns
-start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.
-smos                   : Soil Moisture at 5cm depth (measured by the ratio Vol/Vol) at daily frequency
-region_id              : A unique identifier for the 10 provinces
+Daily Soil Moisture.csv has 4 columns<br />
+start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.<br />
+smos                   : Soil Moisture at 5cm depth (measured by the ratio Vol/Vol) at daily frequency<br />
+region_id              : A unique identifier for the 10 provinces<br />
 
-Daily Temperature.csv has 4 columns
-start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.
-temp                   : Average daily temperature on the surface of the land (in celsius) at daily frequency
-region_id              : A unique identifier for the 10 provinces
+Daily Temperature.csv has 4 columns<br />
+start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.<br />
+temp                   : Average daily temperature on the surface of the land (in celsius) at daily frequency<br />
+region_id              : A unique identifier for the 10 provinces<br />
 
-Eight Day NDVI.csv has 4 columns
-start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.
-ndvi                   : Normalized Difference Vegetation Index (NDVI is a ratio which ranges between [-1, 1] and captures the vegetation abundance of an            area)at 8-day frequency between the given periods.
-region_id              : A unique identifier for the 10 provinces
+Eight Day NDVI.csv has 4 columns<br />
+start_date, end_date   : start day and end day at a daily frequency between January 1, 2014 to Mar 6, 2022.<br />
+ndvi                   : Normalized Difference Vegetation Index (NDVI is a ratio which ranges between [-1, 1] and captures the vegetation abundance of an            area)at 8-day frequency between the given periods.<br />
+region_id              : A unique identifier for the 10 provinces<br />
 
-Evaluation Metrics :
+Evaluation Metrics :<br />
 
 R2 Score
